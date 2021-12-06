@@ -225,8 +225,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 [ Top bar ]*/
 .top-bar {
   height: 40px;
-  background-color: #222;
-  color: #020e62;
+  background-color: #020E62;
 }
 
 /*---------------------------------------------*/
@@ -262,7 +261,8 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 .topbar-mobile li {
   padding: 8px 20px;
   border-top: 1px solid rgba(255,255,255,0.05);
-  background-color: #222;
+  background-color: #020E62;
+;
 }
 
 
@@ -1983,8 +1983,8 @@ input.num-product::-webkit-inner-spin-button {
 [ Block1 ]*/
 .block1 {
   position: relative;
-  border: 1px solid #e6e6e6;
-  background-color: #020e62;
+  border: 1px solid #DDAA01;
+  background-color: #DDAA01;
 }
 
 .block1-txt {

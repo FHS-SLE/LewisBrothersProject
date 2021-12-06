@@ -1985,6 +1985,7 @@ input.num-product::-webkit-inner-spin-button {
   position: relative;
   border: 1px solid #DDAA01;
   background-color: #DDAA01;
+  height: 500px;
 }
 
 .block1-txt {

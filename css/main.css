@@ -1978,6 +1978,12 @@ input.num-product::-webkit-inner-spin-button {
 }
 
 
+/*//////////////////////////////////////////////////////////////////
+[ Stories Title ]*/
+
+.todaysStoriesTitle{
+  text-align: center;
+}
 
 /*//////////////////////////////////////////////////////////////////
 [ Block1 ]*/
@@ -1985,6 +1991,7 @@ input.num-product::-webkit-inner-spin-button {
   position: relative;
   border: 1px solid #DDAA01;
   background-color: #DDAA01;
+  height: 500px;
 }
 
 .block1-txt {
@@ -2126,7 +2133,7 @@ input.num-product::-webkit-inner-spin-button {
 ==================================================================*/
 .cl0 {color: #fff;}
 .cl1 {color: #717fe0;}
-.cl2 {color: #333;}
+.cl2 {color: #DDAA01;}
 .cl3 {color: #666;}
 .cl4 {color: #999;}
 .cl5 {color: #020E62;}

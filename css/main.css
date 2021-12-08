@@ -3256,3 +3256,8 @@ input.num-product::-webkit-inner-spin-button {
   }
 
 }
+
+/* Overlay */
+.overlay {
+  background-color: #ffffff; 
+}
